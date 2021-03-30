@@ -8,9 +8,10 @@
 <img src="http://www.acofi.edu.co/eiei2018/wp-content/uploads/2018/07/Logo-Universidad-El-Bosque.jpg" width="200" height="200">
 
 #### Integrantes:
-- David Leonardo, Lopez Forero
-- Briannys Ahiram, Páez Monserrate 
-- Sergio Eduardo, Peña Alméciga 
+- David Leonardo, Lopez Forero.
+- Briannys Ahiram, Páez Monserrate. 
+- Sergio Eduardo, Peña Alméciga.
+- Jorge Andrés, Ramírez Perez.
 
 ### Acerca de ###
 ***
